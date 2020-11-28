@@ -47,7 +47,7 @@ colored_puppets = {
 				is_subject_of = ROOT
 				NOT = { has_country_flag = color_changed }
 			}
-			has_global_flag = cp_start
+			has_global_flag = coloredp_start
 		}
 		
 		visible = {
@@ -273,7 +273,7 @@ colored_puppets = {
 				is_subject_of = ROOT
 				has_country_flag = color_changed
 			}
-			has_global_flag = cp_start
+			has_global_flag = coloredp_start
 		}
 		
 		visible = {
