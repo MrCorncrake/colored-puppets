@@ -17,7 +17,7 @@ on_actions = {
 		effect = {
 				random_country  = { 
 					limit = { is_ai = no }
-					country_event = cp.1
+					country_event = coloredp.1
 				}
 			}
 	}
